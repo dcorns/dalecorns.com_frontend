@@ -1,0 +1,38 @@
+#daterange {
+        background-color: transparent;
+        color: black;
+}
+#daterange table{
+        display: block;
+        width: 80%;
+        font-size: 1.4vw;
+}
+#daterange table th{
+        width:50%;
+        text-align: center;
+}
+#daterange table td{
+        background-color: seagreen;
+        height: 1vw;
+}
+#daterange table td:nth-child(2){
+        background-color: seagreen;
+        text-align: center;
+}
+#daterange table td:nth-child(2):hover{
+        background-color: seagreen;
+}
+#daterange table td:nth-child(3){
+        background-color: seagreen;
+        text-align: right;
+}
+#daterange input[type='datetime-local']{
+        background-color: #3d4966;
+}
+#daterange input[type='text']{
+        background-color: #3d4966;
+        width: 100%;
+}
+#daterange table{
+        margin: 0;
+}

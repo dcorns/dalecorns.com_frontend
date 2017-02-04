@@ -1,0 +1,37 @@
+{
+  "name": "dalecorns.com_frontend",
+  "version": "1.0.0",
+  "description": "An advanced resume for the future",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcorns/dalecorns.com_frontend.git"
+  },
+  "author": "Dale R. Corns",
+  "license": "AP2",
+  "bugs": {
+    "url": "https://github.com/dcorns/dalecorns.com_frontend/issues"
+  },
+  "homepage": "https://github.com/dcorns/dalecorns.com_frontend#readme",
+  "engines": {
+    "node": ">= 7.4.0",
+    "npm": ">= 4.0.5"
+  },
+  "dependencies": {
+    "do-ajax": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "cssnano": "^3.7.3",
+    "grunt": "^1.0.1",
+    "grunt-add-view": "^0.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-uglify": "^2.0.0",
+    "mocha": "^2.5.3",
+    "postcss-cssnext": "^2.7.0"
+  }
+}

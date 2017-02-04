@@ -1,6 +1,5 @@
 #/*.js
 *.js.map
 #api/**/*.js
-Development/
-app/js/build/
-app/js/viewScripts/daterange.js
+development/
+compiled_out/

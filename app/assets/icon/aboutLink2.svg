@@ -1,0 +1,18 @@
+
+<symbol id="icon-about" viewBox="0 0 168 52.6366">
+ <g transform="translate(-.37881 -999.21)">
+  <g fill-rule="evenodd">
+   <path d="m12.989 1045.2 155.28-34.801v28.298l-155.28 12.54z" points="168.27284,1010.4123 168.27284,1038.71 12.988888,1051.25 12.988888,1045.2134 " fill="#e9e9ff"/>
+   <path d="m0.27284 1044.8v6.3205l12.716 0.1599v-6.0366z" points="0.27284251,1051.0901 12.988888,1051.25 12.988888,1045.2134 0.27284251,1044.7696 " fill="#353564"/>
+   <path d="m0.27284 1044.8 137.3-46.19l30.7 11.799-155.28 34.801z" points="137.57316,998.61342 168.27284,1010.4123 12.988888,1045.2134 0.27284251,1044.7696 " fill="#4d4d9f"/>
+   <path d="m0.27284 1051.1 137.3-16.6 30.7 4.2-155.28 12.5z" points="137.57316,1034.4584 168.27284,1038.71 12.988888,1051.25 0.27284251,1051.0901 " fill="#afafde"/>
+   <path d="m137.57 998.61v35.845l30.7 4.2516v-28.298z" points="137.57316,1034.4584 168.27284,1038.71 168.27284,1010.4123 137.57316,998.61342 " fill="#d7d7ff"/>
+   <path d="m0.27284 1044.8 137.3-46.19v35.845l-137.3 16.632z" points="137.57316,998.61342 137.57316,1034.4584 0.27284251,1051.0901 0.27284251,1044.7696 " fill="#8686bf"/>
+  </g>
+  <g font-family="&apos;Nuosu SIL&apos;">
+   <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="5px" line-height="125%" y="1042.5132" x="19.066629" fill="#000000"><tspan x="19.066629" y="1042.5132"/></text>
+   <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="5px" line-height="125%" y="1048.4479" x="21.465742" fill="#000000"><tspan x="21.465742" y="1048.4479"/></text>
+   <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="matrix(1.1448 -.27604 0 .87352 0 0)" line-height="125%" font-size="20.16px" y="1208.6293" x="44.30896" fill="#00009b"><tspan x="44.30896" y="1208.6293">ABOUT </tspan></text>
+  </g>
+ </g>
+</symbol>
